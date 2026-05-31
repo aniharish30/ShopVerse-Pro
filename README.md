@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopVerse — MERN E-Commerce Platform
 
 A full-stack, production-grade e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Features a dark-themed, modern UI, complete authentication, admin dashboard, and all core shopping features.
@@ -261,3 +262,6 @@ The app uses a custom dark design system defined in `globals.css`:
 ## 📄 License
 
 MIT — free to use for learning and portfolio projects.
+=======
+# ShopVerse-Pro
+>>>>>>> b7ce936835cbfdcb7844d85c07b1a509430f4a76
